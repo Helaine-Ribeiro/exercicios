@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="number"] {
+    width: 60px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 30px;
+    border-color: blue;
+}
+
+table {
+    margin: 20px auto;
+}
+
+table td {
+    padding: 8px;
+    border: none; /* Remove a borda */
+    color: rgb(52, 56, 56);
+    background: rgb(128, 226, 128);
+    font-size: bold;
+}
+
+
+
